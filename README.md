@@ -1,4 +1,4 @@
-|[logo](https://github.com/sushantk2009/sushantk2009/blob/main/Github%20banner.png)
+![logo](https://github.com/sushantk2009/sushantk2009/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sushant Kushwaha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
